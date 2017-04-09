@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{da2016framework}
+D.~A. da~Costa, S.~McIntosh, W.~Shang, U.~Kulesza, R.~Coelho, and A.~Hassan.
+\newblock A framework for evaluating the results of the {SZZ} approach for
+  identifying bug-introducing changes.
+\newblock {\em IEEE Transactions on Software Engineering}, 2016.
+
+\bibitem{eyolfson2011time}
+J.~Eyolfson, L.~Tan, and P.~Lam.
+\newblock Do time of day and developer experience affect commit bugginess?
+\newblock In {\em Proceedings of the 8th Working Conference on Mining Software
+  Repositories}, pages 153--162. ACM, 2011.
+
+\bibitem{german2009change}
+D.~M. German, A.~E. Hassan, and G.~Robles.
+\newblock Change impact graphs: Determining the impact of prior codechanges.
+\newblock {\em Information and Software Technology}, 51(10):1394--1408, 2009.
+
+\bibitem{hata2010fault}
+H.~Hata, O.~Mizuno, and T.~Kikuno.
+\newblock Fault-prone module detection using large-scale text features based on
+  spam filtering.
+\newblock {\em Empirical Software Engineering}, 15(2):147--165, 2010.
+
+\bibitem{mizuno2010prediction}
+O.~Mizuno and H.~Hata.
+\newblock Prediction of fault-prone modules using a text filtering based
+  metric.
+\newblock {\em International Journal of Software Engineering and Its
+  Applications}, 4(1):43--52, 2010.
+
+\bibitem{prechelt2014software}
+L.~Prechelt and A.~Pepper.
+\newblock Why software repositories are not used for defect-insertion
+  circumstance analysis more often: A case study.
+\newblock {\em Information and Software Technology}, 56(10):1377--1389, 2014.
+
+\bibitem{sliwerski2005changes}
+J.~{\'S}liwerski, T.~Zimmermann, and A.~Zeller.
+\newblock When do changes induce fixes?
+\newblock {\em Proceedings of the 2005 International Workshop on Mining
+  software repositories}, pages 1--5, 2005.
+
+\end{thebibliography}
